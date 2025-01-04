@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Farah Akl and I'm a Frontend Developer from Egypt</h2>
 
+- 🌱 I’m currently learning **JS , React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/FarahAkl](https://github.com/FarahAkl)
+
+- 📫 How to reach me **farahheshamakl@gmail.com**
+
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1N7OZSy5TRwj1C8dzzcwEZ-iNOvREQRmt/view?usp=drive_link)
+
 ###
 
 <div align="center">
