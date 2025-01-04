@@ -8,6 +8,7 @@
 </div>
 
 ###
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -30,6 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   </div>
   
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FarahAkl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ###
 
 <div align="left">
@@ -48,10 +55,6 @@
 </div>
 
 ###
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FarahAkl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
