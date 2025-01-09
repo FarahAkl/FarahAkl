@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Farah Akl and I'm a Frontend Developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Farah Akl and I'm a Frontend Developer</h2>
 
 - 🌱 I’m currently learning **JS , React**
 
