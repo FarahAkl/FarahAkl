@@ -13,9 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahAkl&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarahAkl&hide_progress=false&theme=dracula&layout=compact" height="150" alt="languages graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farahakl&theme=dracula" alt="farahakl" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarahAkl&theme=dracula" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarahAkl&hide_progress=false&theme=dracula&layout=compact" height="180" alt="languages graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farahakl&theme=dracula" height="180" alt="farahakl" /></p>
 </div>
 
 ###
