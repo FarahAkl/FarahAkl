@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarahAkl&theme=dracula" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarahAkl" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarahAkl&hide_progress=false&theme=dracula" alt="languages graph"  />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farahakl&" alt="farahakl" /></p>
 </div>
 
