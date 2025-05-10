@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahAkl" alt="stats graph"  /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarahAkl" alt="languages graph"  /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FarahAkl" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarahAkl" alt="languages graph"  />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farahakl&" alt="farahakl" /></p>
 </div>
 
