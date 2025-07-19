@@ -81,11 +81,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farahakl&label=Profile%20views&color=0e75b6&style=flat" alt="farahakl" /> </p>
 
 ###
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarahAkl/FarahAkl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarahAkl/FarahAkl/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FarahAkl/FarahAkl/output/pacman-contribution-graph.svg">
-</picture>
