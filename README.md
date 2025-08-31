@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working on [FeedBridge](https://github.com/FarahAkl/FeedBridge.git)
+- 🔭 I’m currently working on enhancing my skills and exploring new technologies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/FarahAkl](https://github.com/FarahAkl)
 
