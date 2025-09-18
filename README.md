@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-farah-akls-projects.vercel.app/api?username=FarahAkl&cache_seconds=3600&theme=dracula" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-master-farah-akls-projects.vercel.app/api/top-langs?username=FarahAkl&cache_seconds=3600&hide_progress=false&theme=dracula&layout=compact" height="180" alt="languages graph"  />
+  ![Farah's GitHub stats](https://github-readme-stats-git-master-farah-akls-projects.vercel.app/api?username=FarahAkl&show_icons=true&theme=dracula)
+  ![Farah's GitHub stats](https://github-readme-stats-git-master-farah-akls-projects.vercel.app/api?username=FarahAkl&show_icons=true&theme=dracula)
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farahakl&theme=dracula" height="180" alt="farahakl" /></p>
 </div>
 
