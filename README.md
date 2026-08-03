@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Farah Akl and I'm a Frontend Developer</h2>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 🔭 I’m currently working on enhancing my skills and exploring new technologies.
 
