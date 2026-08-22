@@ -95,6 +95,12 @@
 </div>
 
 ###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarahAkl/FarahAkl/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarahAkl/FarahAkl/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FarahAkl/FarahAkl/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farahakl&label=Profile%20views&color=0e75b6&style=flat" alt="farahakl" /> </p>
 
