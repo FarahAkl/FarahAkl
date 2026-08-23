@@ -50,7 +50,7 @@
  <img width="12" />
   <img src="https://raw.githubusercontent.com/colinhacks/zod/b6071fc0ad2be94850ed57e07e418a6f902a9771/logo.svg" height="30"/>
  <img width="12" />
-    <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" height="30"/>
+    <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" height="30"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
